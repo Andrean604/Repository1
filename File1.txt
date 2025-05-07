@@ -5,4 +5,4 @@ Computer science
 
 Software Engineering
 implementasi github
-individu
+individu 2
